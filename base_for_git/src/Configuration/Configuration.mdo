@@ -35,6 +35,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщиеФункции</commonModules>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.Продажи</documents>
 </mdclass:Configuration>
